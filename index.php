@@ -1,2 +1,3 @@
-site will be here
-some text
+<?php
+
+echo 'site logic';
